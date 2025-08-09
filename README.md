@@ -1,7 +1,7 @@
 # 🦸‍♂️ Cards de Superhéroes
 
-Proyecto básico desarrollado como parte de la formación en **Desarrollo Front End** en **Digital House**.  
-Consiste en una página web con tarjetas informativas de superhéroes, incluyendo nombre, imagen, descripción y un botón de acción. El diseño es **responsive**, adaptándose a distintos tamaños de pantalla.
+Proyecto básico desarrollado como parte de la formación en **Desarrollo Front End** dentro del programa **Certified Tech Developer en Digital House**, en el cual fui becado.
+Consiste en una página web con tarjetas informativas de superhéroes, incluyendo nombre, imagen, descripción y un botón de acción. El diseño es responsive, adaptándose a distintos tamaños de pantalla.
 
 ## 🚀 Tecnologías Utilizadas
 - **HTML5** para la estructura.
